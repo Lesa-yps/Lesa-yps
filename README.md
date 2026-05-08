@@ -17,6 +17,7 @@
 - [Output-Safety](https://github.com/dan0nchik/output-safety) - система анализа и фильтрации пользовательского контента, созданная в команде на студкемпе Яндекс Образования;
 - [Trading News](https://github.com/vnedraid/trading-news) - система обработки сигналов торговых новостей на базе Temporal, работа над которой велась на хакатоне ВНЕДРЕЙД от ORION SOFT;
 - [Wi-Fi CSI Motion Detection](https://github.com/vnedraid/trading-news) - исследование возможности классификации наличия движения по данным Channel State Information, которое проходило на студкемпе Яндекс Образования.
+- [AdventureMaker](https://github.com/Penguins-of-Madagascar-BMSTU/AdventureMaker) - мобильное андроид приложение для путешественников с картой и лентой публикаций.
 
 ## 📫 Связь со мной
 - Email: [r.tevo@yandex.ru](mailto:r.tevo@yandex.ru)
